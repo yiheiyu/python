@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stores>
+	<Store id="90001" ip="192.168.1." name="上海国金中心"/>
+	<Store id="90002" ip="192.168.2." name="上海国金中心2"/>
+</Stores>

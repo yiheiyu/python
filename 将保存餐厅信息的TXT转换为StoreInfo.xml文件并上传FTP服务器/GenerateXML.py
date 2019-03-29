@@ -1,4 +1,4 @@
-
+﻿
 import sys
 import os
 from xml.dom import minidom
@@ -6,7 +6,7 @@ from ftplib import FTP
 import cchardet as chardet
 
 #FTP
-host,username,password = '192.168.10.10','hujie','hujie'
+host,username,password = 'ftp服务器','用户名','密码'
 
 file_txt = []
 
